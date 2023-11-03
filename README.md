@@ -1,0 +1,2 @@
+# Breast-Cancer-Image-Segmentation-U-net-Attention-Unet-and-SEU-net.
+The project has the goal to apply one of the most used and famous models in the context of Image Segmentation, U-Net, in the context of the X-Ray images of Breast Cancer. In addition two variations of the U-Net which use an Attntion Module and a Squeeze &amp; Excitation Module are studied in order to improve the performances of the original network.
